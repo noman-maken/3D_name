@@ -19,16 +19,16 @@ export default function Home() {
         <div className="fixed bottom-0 flex w-max flex-col gap-1 p-4 text-white antialiased md:right-0">
           <div>
             <a
-              href="https://www.sameerjadav.me"
+              href="https://www.itsolp.com"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Sameer Jadav - Creative Developer
+              Noman Maken - Creative Developer
             </a>
           </div>
           <div className=" flex items-center justify-between">
             <a
-              href="https://twitter.com/SameerJadav_"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
               className="border-b border-transparent transition-all hover:border-white"
@@ -36,7 +36,7 @@ export default function Home() {
               ➥ Twitter
             </a>
             <a
-              href="https://github.com/SameerJadav"
+              href="https://github.com/noman-maken"
               target="_blank"
               rel="noopener noreferrer"
               className="border-b border-transparent transition-all hover:border-white"
@@ -44,7 +44,7 @@ export default function Home() {
               ➥ Github
             </a>
             <a
-              href="https://www.linkedin.com/in/sameer-jadav"
+              href="https://pk.linkedin.com/in/muhammad-noman-aslam-maken-2ab81b178"
               target="_blank"
               rel="noopener noreferrer"
               className="border-b border-transparent transition-all hover:border-white"
